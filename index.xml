@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shashank</title>
+    <link>/</link>
+    <description>Recent content on Shashank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my Data Science Portfolio</title>
+      <link>/2022/01/welcome-to-my-data-science-portfolio/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/welcome-to-my-data-science-portfolio/</guid>
+      <description>&lt;p&gt;My passion is understanding the numbers and trends behind the Buisness Model using data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Case Study: How Does a Bike-Share Navigate Speedy Success ?</title>
+      <link>/2022/01/case-study-how-does-a-bike-share-navigate-speedy-success/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/case-study-how-does-a-bike-share-navigate-speedy-success/</guid>
+      <description>&lt;p&gt;A Captone Project for &lt;a href=&#34;https://www.coursera.org/professional-certificates/google-data-analytics&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Case Study: How Airbnb can attract Tourists in NYC ?</title>
+      <link>/2022/01/case-study-how-airbnb-can-attract-tourists-in-nyc/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/case-study-how-airbnb-can-attract-tourists-in-nyc/</guid>
+      <description>&lt;p&gt;Analyzed a data publicly available on &lt;a href=&#34;https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data&#34;&gt;Kaggle: New York City Airbnb Open Data(Airbnb listings and metrics in NYC, NY, USA (2019))&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Movies Recommendation System</title>
+      <link>/2022/01/movies-recommendation-system/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/movies-recommendation-system/</guid>
+      <description>&lt;p&gt;A Model for Recommending Movies on the basis of user input.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laptop Price Predictor</title>
+      <link>/2022/01/laptop-price-predictor/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/laptop-price-predictor/</guid>
+      <description>&lt;p&gt;A Model for Predicting Prices of Laptops based of different user inputs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Weather Application</title>
+      <link>/2022/01/weather-application/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/weather-application/</guid>
+      <description>&lt;p&gt;An application for representing different weather related information based on user input.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/2022/01/about-me/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/about-me/</guid>
+      <description>&lt;p&gt;Student at LPU | Data Analyst&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
