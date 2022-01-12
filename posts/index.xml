@@ -6,14 +6,23 @@
     <description>Recent content in Posts on Shashank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my Data Science Portfolio</title>
       <link>/2022/01/welcome-to-my-data-science-portfolio/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/2022/01/welcome-to-my-data-science-portfolio/</guid>
       <description>&lt;p&gt;My passion is understanding the numbers and trends behind the Buisness Model using data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation using KMeans</title>
+      <link>/2022/01/customer-segmentation-using-kmeans/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/customer-segmentation-using-kmeans/</guid>
+      <description>&lt;p&gt;A Project for segmenting customer on the basis of Segmentation Factors.&lt;/p&gt;</description>
     </item>
     
     <item>
